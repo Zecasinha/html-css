@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+* {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to right, #f1d8c9, #f2c3a7);
+    text-align: justify;
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #816859;
+}
+
+h1 {
+    text-align: center;
+}
